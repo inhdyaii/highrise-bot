@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>عرض الصور في شبكة</title>
+    <title>عرض شبكة</title>
     <style>
         body {
             display: flex;
